@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "productmanager": "file:./path-to-productmanager-directory"
+  },
+  "name": "productmanagerskincare",
+  "description": "productos de belleza para el cuidado de la piel",
+  "version": "1.0.0",
+  "main": "productManager.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcornejov40/ProductManagerSkinCareentrega2.git"
+  },
+  "keywords": [
+    "skincare",
+    "productos",
+    "cuidado",
+    "diario",
+    "belleza",
+    "rutina",
+    "facial"
+  ],
+  "author": "Daniela Cornejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcornejov40/ProductManagerSkinCareentrega2/issues"
+  },
+  "homepage": "https://github.com/dcornejov40/ProductManagerSkinCareentrega2#readme"
+}
